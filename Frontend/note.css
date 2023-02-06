@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(244, 185, 77);
+}
+
+#flex{
+    display: flex;
+    justify-content: space-around;
+}
+#title{
+    width: 15%;
+    display: block;
+    margin: auto;
+}
